@@ -107,7 +107,7 @@ The incident was fully contained through password resets, domain blocking, and u
 
 ---
 
-## 🔗 Reference
+## Reference
 
 > **TryHackMe:** [https://tryhackme.com](https://tryhackme.com)  
 > **Scenario:** Phishing Investigation (Greenholt PLC)
